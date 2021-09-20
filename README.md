@@ -9,8 +9,8 @@
 7. 点击下载；
 8. 完成！
 ## Copyright
-Kuwo Music Downloader V2.0 PRO
-Copyright (C) 2021  XiaoDengCode
+### Kuwo Music Downloader V2.0 PRO
+#### Copyright (C) 2021  XiaoDengCode
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
