@@ -1,7 +1,5 @@
 # Kuwo Music Downloader PRO
-<img src="https://g.itcraft.tk/img/logo.png" />
 ## 使用方法
-> Sorry,we can't give the English version.
 1. 打开酷我音乐网页版；
 2. 点击搜索按钮，搜索想要的歌曲；
 3. 进入试听页面；
@@ -28,3 +26,5 @@ Copyright (C) 2021  XiaoDengCode
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ## Licenses
 This program use the [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-3.0.html)
+<hr>
+<img src="https://g.itcraft.tk/img/logo.png"></img>
